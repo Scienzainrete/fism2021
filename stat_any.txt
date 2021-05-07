@@ -9,7 +9,7 @@
 2011 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
 	all	3262.0	55.0	4.66	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 	italy	216.0	58.0	4.37	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	fism	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	fism	21.0	52.0	6.75	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 2012 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
 	all	3520.0	57.0	4.55	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 	italy	226.0	62.0	4.12	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

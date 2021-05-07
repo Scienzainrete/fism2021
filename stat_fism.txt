@@ -11,11 +11,11 @@
 	personalized_medicine	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 	progressive	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 2011 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
-	any	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	any	21.0	52.0	6.75	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 	data_sharing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	pediatric	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	pediatric	1.0	100.0	8.77	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 	personalized_medicine	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	progressive	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	progressive	2.0	50.0	8.77	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 2012 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
 	any	43.0	77.0	4.78	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 	data_sharing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
